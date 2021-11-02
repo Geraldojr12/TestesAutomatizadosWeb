@@ -5,6 +5,7 @@
 * Selenium
 * Cucumber
 * Junit
+* Gherkin
 
 ## Padrao PageFactory:
  * Mapeamento de elemento mais simples.
